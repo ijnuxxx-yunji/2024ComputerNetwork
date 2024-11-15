@@ -17,8 +17,8 @@ A client-server based quiz game application implemented using Java sockets.
 4. Run the client: `client`
 
 ## Protocol
-Detailed protocol documentation can be found in the Wiki.
-
+[Detailed protocol documentation can be found in the Wiki.]
+(https://github.com/ijnuxxx-yunji/2024ComputerNetwork.wiki.git)
 ## Requirements
 - Java 8 or higher
 - Network connection
